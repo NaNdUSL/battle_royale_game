@@ -17,8 +17,6 @@ By working with these technologies, the project explores how to implement and ma
 - **Concurrency**: The server leverages Erlang’s lightweight processes to manage several players simultaneously.
 - **Processing Library**: The client utilizes Processing to handle graphical rendering and input handling, making it simple to create a visually interactive environment.
 
-## Getting Started
-
 ### Prerequisites
 
 - **Java**: Java Development Kit (JDK) is necessary to run the client.
